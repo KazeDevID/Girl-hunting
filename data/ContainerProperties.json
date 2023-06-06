@@ -1,0 +1,736 @@
+{
+  "Scene_Options": {
+    "WindowLayer": {
+      "2,Window_Options": {
+        "x": 462,
+        "y": 229,
+        "width": 400,
+        "height": 360,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_Help": {
+        "x": 0,
+        "y": 10,
+        "width": 1280,
+        "height": 108,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_Options": {
+        "x": 440,
+        "y": 180,
+        "width": 400,
+        "height": 360,
+        "opacity": 0,
+        "hidden": true,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Load": {
+    "WindowLayer": {
+      "2,Window_Help": {
+        "x": 380,
+        "y": 7,
+        "width": 550,
+        "height": 108,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_SavefileList": {
+        "x": 0,
+        "y": 112,
+        "width": 540,
+        "height": 608,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_SaveAction": {
+        "x": 575,
+        "y": 98,
+        "width": 680,
+        "height": 72,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "5,Window_SaveInfo": {
+        "x": 575,
+        "y": 190,
+        "width": 680,
+        "height": 525,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_GirlsJournal": {
+    "WindowLayer": {
+      "1,Window_GirlList": {
+        "x": 0,
+        "y": 0,
+        "width": 290,
+        "height": 720,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "2,Window_Base": {
+        "x": 290,
+        "y": 0,
+        "width": 990,
+        "height": 720,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Save": {
+    "WindowLayer": {
+      "2,Window_Help": {
+        "x": 380,
+        "y": 7,
+        "width": 550,
+        "height": 108,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_SavefileList": {
+        "x": 0,
+        "y": 112,
+        "width": 540,
+        "height": 608,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_SaveAction": {
+        "x": 575,
+        "y": 98,
+        "width": 680,
+        "height": 72,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "5,Window_SaveInfo": {
+        "x": 575,
+        "y": 190,
+        "width": 680,
+        "height": 525,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Item": {
+    "WindowLayer": {
+      "2,Window_Help": {
+        "x": 0,
+        "y": 0,
+        "width": 850,
+        "height": 108,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_ItemCategory": {
+        "x": 0,
+        "y": 108,
+        "width": 850,
+        "height": 106,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_ItemList": {
+        "x": 0,
+        "y": 214,
+        "width": 850,
+        "height": 506,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Equip": {
+    "WindowLayer": {
+      "2,Window_Help": {
+        "x": 0,
+        "y": 5,
+        "width": 850,
+        "height": 146,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_EquipStatus": {
+        "x": 0,
+        "y": 270,
+        "width": 850,
+        "height": 146,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "5,Window_EquipSlot": {
+        "x": 8,
+        "y": 146,
+        "width": 832,
+        "height": 110,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "6,Window_EquipItem": {
+        "x": 0,
+        "y": 430,
+        "width": 850,
+        "height": 290,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Status": {
+    "WindowLayer": {
+      "2,Window_Status": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Battle": {
+    "WindowLayer": {
+      "2,Window_BattleStatus": {
+        "x": 600,
+        "y": 554,
+        "width": 400,
+        "height": 200,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_PartyCommand": {
+        "x": 137,
+        "y": 561,
+        "width": 160,
+        "height": 108,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_ActorCommand": {
+        "x": 5,
+        "y": 544,
+        "width": 572,
+        "height": 180,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "5,Window_Help": {
+        "x": 200,
+        "y": 0,
+        "width": 880,
+        "height": 131,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "6,Window_BattleSkill": {
+        "x": 0,
+        "y": 131,
+        "width": 1280,
+        "height": 398,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "7,Window_BattleItem": {
+        "x": 0,
+        "y": 131,
+        "width": 1280,
+        "height": 398,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "16,Window_VictoryTitle": {
+        "x": 440,
+        "y": 0,
+        "width": 400,
+        "height": 150,
+        "opacity": 255,
+        "hidden": true,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "17,Window_VictoryExp": {
+        "x": 0,
+        "y": 150,
+        "width": 1280,
+        "height": 404,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "18,Window_VictoryDrop": {
+        "x": 422,
+        "y": 150,
+        "width": 436,
+        "height": 404,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "menu_result",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Menu": {
+    "WindowLayer": {
+      "2,Window_MenuCommand": {
+        "x": 10,
+        "y": 10,
+        "width": 830,
+        "height": 144,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_Gold": {
+        "x": 825,
+        "y": 25,
+        "width": 200,
+        "height": 72,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Shop":  {
+    "WindowLayer": {
+      "4,Window_Help": {
+        "x": 0,
+        "y": -6,
+        "width": 900,
+        "height": 136,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "5,Window_Gold": {
+        "x": 662,
+        "y": 130,
+        "width": 224,
+        "height": 63,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "6,Window_ShopCommand": {
+        "x": 0,
+        "y": 125,
+        "width": 660,
+        "height": 72,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "7,Window_Base": {
+        "x": 0,
+        "y": 180,
+        "width": 1280,
+        "height": 540,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "8,Window_ShopNumber": {
+        "x": 462,
+        "y": 400,
+        "width": 420,
+        "height": 320,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "9,Window_ShopStatus": {
+        "x": 450,
+        "y": 210,
+        "width": 450,
+        "height": 500,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "10,Window_ShopBuy": {
+        "x": 0,
+        "y": 210,
+        "width": 450,
+        "height": 500,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "11,Window_ItemCategory": {
+        "x": 0,
+        "y": 200,
+        "width": 900,
+        "height": 72,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "12,Window_ShopSell": {
+        "x": 10,
+        "y": 282,
+        "width": 880,
+        "height": 428,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "13,Window_Material": {
+        "x": 460,
+        "y": 400,
+        "width": 420,
+        "height": 320,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Skill": {
+    "WindowLayer": {
+      "2,Window_Help": {
+        "x": 0,
+        "y": 0,
+        "width": 850,
+        "height": 140,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_SkillType": {
+        "x": 20,
+        "y": 142,
+        "width": 370,
+        "height": 180,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_SkillStatus": {
+        "x": 420,
+        "y": 150,
+        "width": 410,
+        "height": 180,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "5,Window_SkillList": {
+        "x": 20,
+        "y": 330,
+        "width": 814,
+        "height": 400,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 24,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Quest": {
+    "WindowLayer": {
+      "2,Window_QuestData": {
+        "x": 427,
+        "y": 0,
+        "width": 853,
+        "height": 720,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 0,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "3,Window_QuestCategories": {
+        "x": 0,
+        "y": 0,
+        "width": 427,
+        "height": 108,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 0,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_QuestList": {
+        "x": 0,
+        "y": 108,
+        "width": 427,
+        "height": 612,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 0,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  }
+}
